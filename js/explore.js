@@ -176,7 +176,7 @@ const headerHTML = `
     <div class="container mx-auto px-4">
         <nav class="flex justify-between items-center">
             <div class="logo">
-                <a href="./" class="flex items-center text-xl font-bold">
+                <a href="../" class="flex items-center text-xl font-bold">
                     <i class="fas fa-music mr-2 hidden sm:block"></i> Sprunki Incredibox</a>
             </div>
             <ul class="nav-links hidden md:flex space-x-6">
