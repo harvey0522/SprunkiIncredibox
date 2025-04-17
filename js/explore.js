@@ -80,7 +80,7 @@ function renderRecommendedGames() {
     let html = '';
     recommendedGames.forEach(game => {
         html += `
-            <a href="${game.href}" class="bg-white rounded-lg overflow-hidden shadow-md transition duration-300 hover:shadow-xl hover:-translate-y-1">
+            <a href="" class="bg-white rounded-lg overflow-hidden shadow-md transition duration-300 hover:shadow-xl hover:-translate-y-1">
                 <img src="${game.imgSrc}" alt="${game.alt}" class="w-full h-24 object-cover">
                 <div class="p-2">
                     <h3 class="text-sm font-semibold mb-1 text-red-700">${game.title}</h3>
