@@ -1,20 +1,6 @@
 // 推荐游戏数据
 const recommendedGames = [
     {
-        href: "https://sprunkiretake.app/",
-        imgSrc: "../img/sprunki-retake.png",
-        alt: "Sprunki Retake",
-        title: "Sprunki Retake",
-        description: "Experience the new retake!"
-    },
-    {
-        href: "https://spunky.im/zombies-sprunki/",
-        imgSrc: "https://spunky.im/img/Zombies-Sprunki.png",
-        alt: "Zombies Sprunki",
-        title: "Zombies Sprunki",
-        description: "Create spooky Halloween music!"
-    },
-    {
         href: "../incredibox-mustard/",
         imgSrc: "../img/incredibox-mustard.png",
         alt: "Incredibox Mustard",
@@ -27,13 +13,6 @@ const recommendedGames = [
         alt: "Sprunki Incredibox",
         title: "Sprunki Incredibox",
         description: "Create spunky beats!"
-    },
-    {
-        href: "https://spunky.im/sprunki-mustard/",
-        imgSrc: "../img/mustard.webp",
-        alt: "Sprunki Mustard",
-        title: "Sprunki Mustard",
-        description: "Mustard-themed fun!"
     },
     {
         href: "../remastered/",
@@ -57,20 +36,6 @@ const recommendedGames = [
         description: "Creepy yet captivating!"
     },
     {
-        href: "https://spunky.im/sprunked/",
-        imgSrc: "../img/sprunked.jpg",
-        alt: "Sprunked",
-        title: "Sprunked",
-        description: "Explore the unique cast!"
-    },
-    {
-        href: "https://spunky.im/sprunki-phase-4/",
-        imgSrc: "../img/sprunki-phase-4.jpg",
-        alt: "Sprunki Phase 4",
-        title: "Sprunki Phase 4",
-        description: "Discover the new Sprunki Phase 4!"
-    },
-    {
         href: "../neesterversal-v3-incredibox/",
         imgSrc: "../img/neesterversal.png",
         alt: "Neesterversal v3 Incredibox",
@@ -84,13 +49,7 @@ const recommendedGames = [
         title: "Sprunki FNF",
         description: "Friday Night Funkin'!"
     },
-    {
-        href: "https://spunky.im/sprunki-phase-3/",
-        imgSrc: "../img/sprunki-phase-3.jpg",
-        alt: "Sprunki Phase 3",
-        title: "Sprunki Phase 3",
-        description: "Discover the new Sprunki Phase 3!"
-    },
+
     {
         href: "../gray-sprunki/",
         imgSrc: "../img/gray-sprunki.png",
@@ -98,34 +57,7 @@ const recommendedGames = [
         title: "Gray Sprunki",
         description: "Cool Cat of Incredibox"
     },
-    {
-        href: "https://spunky.im/sprunki-phase-5/",
-        imgSrc: "../img/sprunki-phase-5.jpg",
-        alt: "Sprunki Phase 5",
-        title: "Sprunki Phase 5",
-        description: "Discover the new Sprunki Phase 5!"
-    },
-    {
-        href: "https://spunky.im/sprunki-phase-6/",
-        imgSrc: "../img/sprunki-phase-6.png",
-        alt: "Sprunki Phase 6",
-        title: "Sprunki Phase 6",
-        description: "Discover the new Sprunki Phase 6!"
-    },
-    {
-        href: "https://spunky.im/abgerny/",
-        imgSrc: "../img/sprunki-abgerny.png",
-        alt: "Abgerny",
-        title: "Abgerny",
-        description: "New sounds & characters!"
-    },
-    {
-        href: "https://spunky.im/flappy-bird/",
-        imgSrc: "../img/flappy-bird.png",
-        alt: "Flappy Bird",
-        title: "Flappy Bird",
-        description: "One-tap challenge!"
-    },
+
 ];
 
 

@@ -1,0 +1,15 @@
+{
+  "name": "SprunkiIncredibox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:harvey0522/SprunkiIncredibox.git",
+  "author": "harvey0522 <harvey0903@126.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "http-server",
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

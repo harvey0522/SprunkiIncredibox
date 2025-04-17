@@ -1,6 +1,6 @@
-# [Sprunki Incredibox](https://sprunkiincredibox.com/) Game
+# [Sprunki Incredibox](https://sprunkiincredibox.help/) Game
 
-Welcome to the official repository for [SprunkiIncredibox.com](https://sprunkiincredibox.com/), the landing page for the Sprunki mod of the popular Incredibox music creation game.
+Welcome to the official repository for [sprunkiincredibox.help](https://sprunkiincredibox.help/), the landing page for the Sprunki mod of the popular Incredibox music creation game.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the official repository for [SprunkiIncredibox.com](https://sprunkiin
 
 ## About
 
-[Sprunki Incredibox](https://sprunkiincredibox.com/) is an innovative spin-off of the popular Incredibox music creation platform. This website serves as the main landing page and information hub for Sprunki Incredibox, showcasing its unique features, gameplay, and community.
+[Sprunki Incredibox](https://sprunkiincredibox.help/) is an innovative spin-off of the popular Incredibox music creation platform. This website serves as the main landing page and information hub for Sprunki Incredibox, showcasing its unique features, gameplay, and community.
 
 ## Features
 
@@ -30,7 +30,6 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/qiayue/SprunkiIncredibox.git
    ```
 2. Navigate to the project directory:
    ```
@@ -73,7 +72,7 @@ For Vercel:
 
 ## Contributing
 
-We welcome contributions to improve SprunkiIncredibox.com! If you have suggestions or improvements:
+We welcome contributions to improve sprunkiincredibox.help! If you have suggestions or improvements:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/AmazingFeature`)

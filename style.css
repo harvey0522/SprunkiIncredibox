@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #4a0e0e;
+    --primary-color: #670862;
     --secondary-color: #f39c12;
     --text-color: #333;
     --background-color: #f4f4f4;
@@ -29,7 +29,7 @@ header {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 .hero {
-    background: url('https://s.sprunkiincredibox.com/img/bg01.png') no-repeat center center/cover;
+    background: url('https://s.sprunkiincredibox.help/img/bg01.png') no-repeat center center/cover;
     height: auto;
     padding: 60px 0;
     display: flex;
